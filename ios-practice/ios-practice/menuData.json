@@ -1,0 +1,65 @@
+[
+    {
+        "title": "음악",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },
+    {
+        "title": "스포츠",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "게임",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "영화",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "뉴스",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "실시간",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "학습",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },{
+        "title": "360 동영상",
+        "imageName": "item1’s description",
+        "sectionTitle": "인기 YOUTUBE"
+    },
+    {
+        "title": "채널 탐색"
+    },
+    {
+        "title": "YouTube Premium",
+        "imageName": "item1’s description",
+        "sectionTitle": "YOUTUBE 더보기"
+    },
+    {
+        "title": "실시간",
+        "imageName": "item1’s description",
+        "sectionTitle": "YOUTUBE 더보기"
+    },
+    {
+        "title": "설정",
+        "imageName": "item1’s description"
+    },
+    {
+        "title": "신고 기록",
+        "imageName": "item1’s description"
+    },
+    {
+        "title": "고객센터",
+        "imageName": "item1’s description"
+    },
+    {
+        "title": "의견 보내기",
+        "imageName": "item1’s description"
+    },
+]

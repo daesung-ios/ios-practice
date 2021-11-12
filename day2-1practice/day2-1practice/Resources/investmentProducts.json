@@ -1,0 +1,50 @@
+[
+    {
+        "productNumber": "1",
+        "annualInterest": 13.5,
+        "timePeriod": 6,
+        "description": "개인신용 분산(선순위) 170",
+        "currentStatus": "new",
+        "thumbnailName": "building"
+    },
+    {
+        "productNumber": "2",
+        "annualInterest": 18.3,
+        "timePeriod": 12,
+        "description": "아파트 담보(서울시 서대문구) 444",
+        "currentStatus": "new",
+        "thumbnailName": "apartments"
+    },
+    {
+        "productNumber": "3",
+        "annualInterest": 13.5,
+        "timePeriod": 6,
+        "description": "개인신용 분산(선순위) 170",
+        "currentStatus": "new",
+        "thumbnailName": "building"
+    },
+    {
+        "productNumber": "4",
+        "annualInterest": 8.3,
+        "timePeriod": 6,
+        "description": "아파트 담보(서울시 서대문구)444",
+        "currentStatus": "willOpenSoon",
+        "ddayStatus": "오픈 D-1"
+    },
+    {
+        "productNumber": "5",
+        "annualInterest": 9.3,
+        "timePeriod": 6,
+        "description": "개인신용 분산(선순위) 170",
+        "currentStatus": "willOpenSoon",
+        "ddayStatus": "오픈 D-3"
+    },
+    {
+        "productNumber": "6",
+        "annualInterest": 14.1,
+        "timePeriod": 6,
+        "description": "부동산PF (제주 메디컬센터) 41차",
+        "currentStatus": "closed",
+        "ddayStatus": "done"
+    }
+]
